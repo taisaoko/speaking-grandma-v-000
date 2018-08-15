@@ -5,7 +5,8 @@ speak_to_grandma(phrase)
   elsif 
     puts "NO, NOT SINCE 1938!."
   elsif
-    puts ""
+    puts "I LOVE YOU TOO PUMPKIN!"
+  end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
